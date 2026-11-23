@@ -1,6 +1,6 @@
 ﻿# Controle de shows
 
-Projeto **Paradigmas em Ação**, da disciplina Paradigmas de Linguagem de Programação da UniCesumar. Integrantes: **Nicolas Casito e André Aires**, turma EngSoft6S.
+Projeto **Paradigmas em Ação**, da disciplina Paradigmas de Linguagem de Programação. Integrantes: **Nicolas Casito e André Aires**, turma EngSoft6S.
 
 A bilheteria do show fictício Aurora tem duas vagas. A demonstração vende uma inteira de R$ 100,00 e uma meia de R$ 50,00. A terceira tentativa retorna “Show esgotado”. O saldo final é de zero vagas, duas confirmações e receita de R$ 150,00.
 
@@ -55,3 +55,4 @@ Capture as imagens com Windows + Shift + S e salve cada PNG.
 4. **Figura 4, página 12.** Execute as quatro consultas Prolog e capture as perguntas com as respostas no terminal.
 
 Abra Relatorio-editavel.html no navegador. Cole o link do repositório na página 2, escolha as imagens nas caixas das páginas 11 e 12 e use **Salvar em PDF** no topo antes de fechar a aba.
+
